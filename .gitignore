@@ -1,5 +1,9 @@
 # git ignore files
 
 # ignore raw data and images to commit
-*/data
-*/vis
+data/*
+vis/*
+
+# Jupyter notebook exclusions
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
