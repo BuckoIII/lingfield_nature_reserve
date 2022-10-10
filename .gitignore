@@ -1,0 +1,5 @@
+# git ignore files
+
+# ignore raw data and images to commit
+*/data
+*/vis
